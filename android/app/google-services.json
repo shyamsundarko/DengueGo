@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150117524379",
+    "project_id": "survey-questions-fe583",
+    "storage_bucket": "survey-questions-fe583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150117524379:android:2796f623ae28068183b73e",
+        "android_client_info": {
+          "package_name": "com.example.denguego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150117524379-mdj5npf1uk7eiripfi7ddj58la7qogq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1aFB6W09bY0MvAkIQ9WjfbGRlVfKCyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150117524379-mdj5npf1uk7eiripfi7ddj58la7qogq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
