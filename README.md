@@ -4,9 +4,9 @@ Application created using Flutter to check Dengue cases within given location as
 
 ## Team Members:
 
+* Shyam Sundar
 * Ankitha Anil
 * Kang Xin Wang
-* Shyam Sundar
 * Xueyao
 * Ze Ming
 
